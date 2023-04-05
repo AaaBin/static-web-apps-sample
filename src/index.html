@@ -41,7 +41,7 @@
       const name = document.getElementById("name").value;
       const password = document.getElementById("password").value;
       const result = document.getElementById("result");
-      const response = await fetch("http://localhost:7071/api/sampleFunction", {
+      const response = await fetch("api/sampleFunction", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

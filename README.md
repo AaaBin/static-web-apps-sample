@@ -1,0 +1,1 @@
+Sample Project for https://dev.abin-tseng.com/post/azure-static-web-apps-api.md.
